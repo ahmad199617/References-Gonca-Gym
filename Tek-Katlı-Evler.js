@@ -138,7 +138,6 @@ document.addEventListener("DOMContentLoaded", function(){
                 stop = true
 
                 var imgNumpar = document.querySelector(".D3D-SCALL").value;
-                console.log(imgNumpar+'%');
                 
                 document.querySelector('.M-3D-IMG-SACEND-div').style.width=imgNumpar+'%'
                 
